@@ -2,5 +2,5 @@
 
 [Amazon](https://www.amazon.com.mx/)
 
-![Pagina de amazon]([url](https://github.com/santillanlc/santillanlc.github.io/blob/main/amazon/Captura.PNG) "Amazon")
+![Imagen Amazon](https://github.com/santillanlc/santillanlc.github.io/blob/main/amazon/Captura.PNG)
 
